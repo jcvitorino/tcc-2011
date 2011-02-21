@@ -1,0 +1,35 @@
+\chapter{Bioinformatics}
+
+{\Large \bf KIRMES: kernel-based identification of regulatory modules in euchromatic sequences}
+
+Sebastian J. Schultheiss,Wolfgang Busch,Jan U. Lohmann,Oliver Kohlbacher e Gunnar Rätsch
+
+{\it Bioinformatics} , Vol. 25, No. 16. (15 August 2009), pp. 2126-2133.\\ doi:10.1093/bioinformatics/btp278
+ 
+{\large \bf Abstract}
+
+{\it Motivation}
+
+Understanding transcriptional regulation is one of the main challenges in computational biology. An important problem is the identification of transcription factor (TF) binding sites in promoter regions of potential TF target genes. It is typically approached by position weight matrix-based motif identification algorithms using Gibbs sampling, or heuristics to extend seed oligos. Such algorithms succeed in identifying single, relatively well-conserved binding sites, but tend to fail when it comes to the identification of combinations of several degenerate binding sites, as those often found in cis-regulatory modules. 
+
+{\it Results}
+
+ We propose a new algorithm that combines the benefits of existing motif finding with the ones of support vector machines (SVMs) to find degenerate motifs in order to improve the modeling of regulatory modules. In experiments on microarray data from Arabidopsis thaliana, we were able to show that the newly developed strategy significantly improves the recognition of TF targets. 
+ 
+ 
+ 
+ {\Large \bf Prediction of regulatory networks: genome-wide identification of transcription factor targets from gene expression data}
+ 
+Jiang Qian, Jimmy Lin1, Nicholas M. Luscombe, Haiyuan Yu2 e Mark Gerstein
+
+{\it Bioinformatics}, Vol. 19, No. 15. (12 October 2003), pp. 1917-1926.\\ doi:10.1093/bioinformatics/btg347
+
+{\large \bf Abstract}
+
+{\it Motivation}
+
+ Defining regulatory networks, linking transcription factors (TFs) to their targets, is a central problem in post-genomic biology. One might imagine one could readily determine these networks through inspection of gene expression data. However, the relationship between the expression timecourse of a transcription factor and its target is not obvious (e.g. simple correlation over the timecourse), and current analysis methods, such as hierarchical clustering, have not been very successful in deciphering them. 
+
+{\it Results}
+
+ Here we introduce an approach based on support vector machines (SVMs) to predict the targets of a transcription factor by identifying subtle relationships between their expression profiles. In particular, we used SVMs to predict the regulatory targets for 36 transcription factors in the Saccharomyces cerevisiae genome based on the microarray expression data from many different physiological conditions. We trained and tested our SVM on a data set constructed to include a significant number of both positive and negative examples, directly addressing data imbalance issues. This was non-trivial given that most of the known experimental information is only for positives. Overall, we found that 63\% of our TF–target relationships were confirmed through cross-validation. We further assessed the performance of our regulatory network identifications by comparing them with the results from two recent genome-wide ChIP-chip experiments. Overall, we find the agreement between our results and these experiments is comparable to the agreement (albeit low) between the two experiments. We find that this network has a delocalized structure with respect to chromosomal positioning, with a given transcription factor having targets spread fairly uniformly across the genome. 

@@ -1,0 +1,108 @@
+\chapter{BMC Bioinformatics}
+
+{\Large \bf Kernel based methods for accelerated failure time model with ultra-high dimensional data}
+
+Zhenqiu Liu, Dechang Chen, Ming Tan, Feng Jiang e Ronald B Gartenhaus
+
+{\it BMC Bioinformatics}, Vol. 11, No. 1. (2010), 606. doi:10.1186/1471-2105-11-606
+
+{\large \bf Abstract}
+
+{\it Background}
+
+Most genomic data have ultra-high dimensions with more than 10,000 genes (probes). Regularization methods with L1 and Lp penalty have been extensively studied in survival analysis with high-dimensional genomic data. However, when the sample size n ≪ m (the number of genes), directly identifying a small subset of genes from ultra-high (m > 10, 000) dimensional data is time-consuming and not computationally efficient. In current microarray analysis, what people really do is select a couple of thousands (or hundreds) of genes using univariate analysis or statistical tests, and then apply the LASSO-type penalty to further reduce the number of disease associated genes. This two-step procedure may introduce bias and inaccuracy and lead us to miss biologically important genes.
+
+{\it Results}
+
+The accelerated failure time (AFT) model is a linear regression model and a useful alternative to the Cox model for survival analysis. In this paper, we propose a nonlinear kernel based AFT model and an efficient variable selection method with adaptive kernel ridge regression. Our proposed variable selection method is based on the kernel matrix and dual problem with a much smaller n × n matrix. It is very efficient when the number of unknown variables (genes) is much larger than the number of samples. Moreover, the primal variables are explicitly updated and the sparsity in the solution is exploited.
+
+{\it Conclusions}
+
+Our proposed methods can simultaneously identify survival associated prognostic factors and predict survival outcomes with ultra-high dimensional genomic data. We have demonstrated the performance of our methods with both simulation and real data. The proposed method performs superbly with limited computational studies.
+
+
+{\Large \bf Learning gene regulatory networks from only positive and unlabeled data}
+
+Luigi Cerulo, Charles Elkan e Michele Ceccarelli
+
+{\it BMC Bioinformatics}, Vol. 11, No. 1. (5 May 2010), 228. doi:10.1186/1471-2105-11-228
+
+{\large \bf Abstract}
+
+{\it Background}
+
+Recently, supervised learning methods have been exploited to reconstruct gene regulatory networks from gene expression data. The reconstruction of a network is modeled as a binary classification problem for each pair of genes. A statistical classifier is trained to recognize the relationships between the activation profiles of gene pairs. This approach has been proven to outperform previous unsupervised methods. However, the supervised approach raises open questions. In particular, although known regulatory connections can safely be assumed to be positive training examples, obtaining negative examples is not straightforward, because definite knowledge is typically not available that a given pair of genes do not interact.
+
+{\it Results}
+
+A recent advance in research on data mining is a method capable of learning a classifier from only positive and unlabeled examples, that does not need labeled negative examples. Applied to the reconstruction of gene regulatory networks, we show that this method significantly outperforms the current state of the art of machine learning methods. We assess the new method using both simulated and experimental data, and obtain major performance improvement.
+
+{\it Conclusions}
+
+Compared to unsupervised methods for gene network inference, supervised methods are potentially more accurate, but for training they need a complete set of known regulatory connections. A supervised method that can be trained using only positive and unlabeled data, as presented in this paper, is especially beneficial for the task of inferring gene regulatory networks, because only an incomplete set of known regulatory connections is available in public databases such as RegulonDB, TRRD, KEGG, Transfac, and IPA.
+
+
+
+{\Large \bf Network motif-based identification of transcription factor-target gene relationships by integrating multi-source biological data}
+
+Yuji Zhang, Jianhua Xuan, Benildo G de los Reyes, Robert Clarke e  Habtom W Ressom
+
+{\it BMC Bioinformatics}, Vol. 9, No. 1. (2008), 203. doi:10.1186/1471-2105-9-203 
+
+{\large \bf Abstract}
+
+{\it Background}
+
+Integrating data from multiple global assays and curated databases is essential to understand the spatio-temporal interactions within cells. Different experiments measure cellular processes at various widths and depths, while databases contain biological information based on established facts or published data. Integrating these complementary datasets helps infer a mutually consistent transcriptional regulatory network (TRN) with strong similarity to the structure of the underlying genetic regulatory modules. Decomposing the TRN into a small set of recurring regulatory patterns, called network motifs (NM), facilitates the inference. Identifying NMs defined by specific transcription factors (TF) establishes the framework structure of a TRN and allows the inference of TF-target gene relationship. This paper introduces a computational framework for utilizing data from multiple sources to infer TF-target gene relationships on the basis of NMs. The data include time course gene expression profiles, genome-wide location analysis data, binding sequence data, and gene ontology (GO) information.
+
+{\it Results}
+
+The proposed computational framework was tested using gene expression data associated with cell cycle progression in yeast. Among 800 cell cycle related genes, 85 were identified as candidate TFs and classified into four previously defined NMs. The NMs for a subset of TFs are obtained from literature. Support vector machine (SVM) classifiers were used to estimate NMs for the remaining TFs. The potential downstream target genes for the TFs were clustered into 34 biologically significant groups. The relationships between TFs and potential target gene clusters were examined by training recurrent neural networks whose topologies mimic the NMs to which the TFs are classified. The identified relationships between TFs and gene clusters were evaluated using the following biological validation and statistical analyses: (1) Gene set enrichment analysis (GSEA) to evaluate the clustering results; (2) Leave-one-out cross-validation (LOOCV) to ensure that the SVM classifiers assign TFs to NM categories with high confidence; (3) Binding site enrichment analysis (BSEA) to determine enrichment of the gene clusters for the cognate binding sites of their predicted TFs; (4) Comparison with previously reported results in the literatures to confirm the inferred regulations.
+
+{\it Conclusion}
+
+The major contribution of this study is the development of a computational framework to assist the inference of TRN by integrating heterogeneous data from multiple sources and by decomposing a TRN into NM-based modules. The inference capability of the proposed framework is verified statistically (e.g., LOOCV) and biologically (e.g., GSEA, BSEA, and literature validation). The proposed framework is useful for inferring small NM-based modules of TF-target gene relationships that can serve as a basis for generating new testable hypotheses.
+
+
+
+{\Large \bf Pol II promoter prediction using characteristic 4-mer motifs: a machine learning approach}
+
+Firoz Anwar, Syed Murtuza Baker, Taskeed Jabid, Md Mehedi Hasan, Mohammad Shoyaib, Haseena Khan e Ray Walshe
+
+{\it BMC Bioinformatics}, Vol. 9, No. 1. (04 October 2008), 414. doi:10.1186/1471-2105-9-414
+
+{\large \bf Abstract}
+
+{\it Background}
+
+Eukaryotic promoter prediction using computational analysis techniques is one of the most difficult jobs in computational genomics that is essential for constructing and understanding genetic regulatory networks. The increased availability of sequence data for various eukaryotic organisms in recent years has necessitated for better tools and techniques for the prediction and analysis of promoters in eukaryotic sequences. Many promoter prediction methods and tools have been developed to date but they have yet to provide acceptable predictive performance. One obvious criteria to improve on current methods is to devise a better system for selecting appropriate features of promoters that distinguish them from non-promoters. Secondly improved performance can be achieved by enhancing the predictive ability of the machine learning algorithms used.
+
+{\it Results}
+
+In this paper, a novel approach is presented in which 128 4-mer motifs in conjunction with a non-linear machine-learning algorithm utilising a Support Vector Machine (SVM) are used to distinguish between promoter and non-promoter DNA sequences. By applying this approach to plant, Drosophila, human, mouse and rat sequences, the classification model has showed 7-fold cross-validation percentage accuracies of 83.81\%, 94.82\%, 91.25\%, 90.77\% and 82.35\% respectively. The high sensitivity and specificity value of 0.86 and 0.90 for plant; 0.96 and 0.92 for Drosophila; 0.88 and 0.92 for human; 0.78 and 0.84 for mouse and 0.82 and 0.80 for rat demonstrate that this technique is less prone to false positive results and exhibits better performance than many other tools. Moreover, this model successfully identifies location of promoter using TATA weight matrix.
+
+{\it Conclusion}
+
+The high sensitivity and specificity indicate that 4-mer frequencies in conjunction with supervised machine-learning methods can be beneficial in the identification of RNA pol II promoters comparative to other methods. This approach can be extended to identify promoters in sequences for other eukaryotic genomes.
+
+
+
+{\Large \bf Using hexamers to predict cis-regulatory motifs in Drosophila}
+
+Bob Y Chan e Dennis Kibler
+
+{\it BMC Bioinformatics}, Vol. 6, No. 1. (27 October 2005), 262. doi:10.1186/1471-2105-6-262
+
+{\large \bf Abstract}
+
+{\it Background}
+
+Cis-regulatory modules (CRMs) are short stretches of DNA that help regulate gene expression in higher eukaryotes. They have been found up to 1 megabase away from the genes they regulate and can be located upstream, downstream, and even within their target genes. Due to the difficulty of finding CRMs using biological and computational techniques, even well-studied regulatory systems may contain CRMs that have not yet been discovered.
+
+{\it Results}
+
+We present a simple, efficient method (HexDiff) based only on hexamer frequencies of known CRMs and non-CRM sequence to predict novel CRMs in regulatory systems. On a data set of 16 gap and pair-rule genes containing 52 known CRMs, predictions made by HexDiff had a higher correlation with the known CRMs than several existing CRM prediction algorithms: Ahab, Cluster Buster, MSCAN, MCAST, and LWF. After combining the results of the different algorithms, 10 putative CRMs were identified and are strong candidates for future study. The hexamers used by HexDiff to distinguish between CRMs and non-CRM sequence were also analyzed and were shown to be enriched in regulatory elements.
+
+{\it Conclusion}
+
+HexDiff provides an efficient and effective means for finding new CRMs based on known CRMs, rather than known binding sites.

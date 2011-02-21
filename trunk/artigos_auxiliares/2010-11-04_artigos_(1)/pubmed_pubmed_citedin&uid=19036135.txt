@@ -1,0 +1,701 @@
+1. J Biol Chem. 2010 Oct 1;285(40):30731-40. Epub 2010 Jul 22.
+
+TNFα-exposed bone marrow-derived mesenchymal stem cells promote locomotion of
+MDA-MB-231 breast cancer cells through transcriptional activation of CXCR3 ligand
+chemokines.
+
+Shin SY, Nam JS, Lim Y, Lee YH.
+
+Institute of Biomedical Science and Technology, Konkuk University Hospital, Seoul
+143-729, Korea.
+
+Bone marrow-derived mesenchymal stem cells (BM-MSCs) are often recruited to solid
+tumors, integrate into the tumor stroma, and contribute to tumor development.
+TNFα is a major inflammatory cytokine present in the tumor microenvironment and
+has a profound influence on the progression of tumor development. This study was 
+aimed to investigate the role of BM-MSCs in tumor promotion in response to TNFα. 
+Quantitative real-time PCR arrays show that diverse cytokines/chemokines were
+induced in TNFα-treated BM-MSCs; in particular, CXCR3 ligand chemokines,
+including CXCL9, CXCL10, and CXCL11, were potently induced. A serial and
+site-directed mutation analysis in the CXCL9, CXCL10, and CXCL11 promoters
+revealed that NF-κB binding elements were responsible for TNFα-induced promoter
+activation of CXCR3 ligand chemokines. TNFα stimulated NF-κB activity, and
+ectopic expression of NF-κB enhanced TNFα-induced promoter activities of the
+CXCR3 ligand chemokines. Gel shift and supershift assays showed that NF-κB was
+associated with CXCR3 ligand chemokine promoters in response to TNFα treatment.
+All three CXCR3 ligand chemokines enhanced the migration and invasive motility of
+MDA-MB-231 breast cancer cells expressing CXCR3. Treatment of MDA-MB-231 cells
+with CXCL10 activated small GTPase of Rho family proteins, such as RhoA and
+Cdc42. CXCL9-, CXCL10-, or CXCL11-induced invasive capability of MDA-MB-231 cells
+was completely abrogated in the presence of a neutralizing anti-CXCR3 antibody in
+the culture medium. Moreover, CXCL9, CXCL10, and CXCL11 stimulated the expression
+of MMP-9, but not MMP-2, in MDA-MB-231 cells. These results suggest that BM-MSCs 
+promote the locomotion of breast cancer cells through CXCR3 ligand-mediated actin
+rearrangement by TNFα in the tumor microenvironment.
+
+
+PMCID: PMC2945567 [Available on 2011/10/1]
+PMID: 20650898 [PubMed - indexed for MEDLINE]
+
+
+2. Proteins. 2010 Aug 1;78(10):2202-12.
+
+Structure and DNA binding characteristics of the three-Cys(2)His(2) domain of
+mouse testis zinc finger protein.
+
+Chou CC, Lou YC, Tang TK, Chen C.
+
+Graduate Institute of Life Sciences, National Defense Medical Center, Taipei 114,
+Taiwan, Republic of China.
+
+The C-terminal three-Cys(2)His(2) zinc-finger domain (TZD) of mouse testis
+zinc-finger protein binds to the 5'-TGTACAGTGT-3' at the Aie1 (aurora-C) promoter
+with high specificity. Interestingly, the primary sequence of TZD is unique,
+possessing two distinct linkers, TGEKP and GAAP, and distinct residues at
+presumed DNA binding sites at each finger, especially finger 3. A K(d) value of
+approximately 10(-8) M was obtained from surface plasmon resonance analysis for
+the TZD-DNA complex. NMR structure of the free TZD showed that each zinc finger
+forms a typical beta beta alpha fold. On binding to DNA, chemical shift
+perturbations and the R(2) transverse relaxation rate in finger 3 are
+significantly smaller than those in fingers 1 and 2, which indicates that the DNA
+binding affinity in finger 3 is weaker. Furthermore, the shift perturbations
+between TZD in complex with the cognate DNA and its serial mutants revealed that 
+both ADE7 and CYT8, underlined in 5'-ATATGTACAGTGTTAT-3', are critical in
+specific binding, and the DNA binding in finger 3 is sequence independent.
+Remarkably, the shift perturbations in finger 3 on the linker mutation of TZD
+(GAAP mutated to TGEKP) were barely detected, which further indicates that finger
+3 does not play a critical role in DNA sequence-specific recognition. The complex
+model showed that residues important for DNA binding are mainly located on
+positions -1, 2, 3, and 6 of alpha-helices in fingers 1 and 2. The DNA sequence
+and nonsequence-specific bindings occurring simultaneously in TZD provide
+valuable information for better understanding of protein-DNA recognition.
+
+
+PMID: 20544958 [PubMed - indexed for MEDLINE]
+
+
+3. Mol Cancer Res. 2010 May;8(5):762-74. Epub 2010 May 11.
+
+p120-catenin is transcriptionally downregulated by FOXC2 in non-small cell lung
+cancer cells.
+
+Mortazavi F, An J, Dubinett S, Rettig M.
+
+Division of Hematology/Oncology, Veterans Administration, Greater Los Angeles,
+West Los Angeles, California, USA. fredmortazavi@ucla.edu
+
+p120-catenin (p120ctn) plays a major role in cell adhesion and motility through
+the regulation of E-cadherin and interaction with RhoGTPase and Rac1. p120ctn is 
+downregulated in several malignancies including non-small cell lung cancer
+(NSCLC). Here, we investigated transcriptional regulation of p120ctn in NSCLC. We
+cloned a 1,400-bp amplicon of chromosome 11 from position -1,082 to +320 relative
+to the transcription start site into a firefly luciferase reporter vector and
+prepared serial deletion constructs to pinpoint cis-acting elements involved in
+the regulation of p120ctn. We transfected NSCLC cell lines and immortalized
+normal human respiratory epithelial cells with the abovementioned constructs. We 
+found reduced p120ctn promoter activity, protein level, and mRNA message in lung 
+cancer cells compared with noncancerous immortalized lung epithelial cells.
+Serial deletion analysis of p120ctn promoter identified a region between
+positions +267 and +282, which mediated the transcriptional repression of
+p120ctn. This region harbored putative binding sites for FOXC2 and FOXL1
+transcription factors. Direct binding of FOXC2 to the p120ctn promoter between
+positions +267 and +282 was confirmed by electromobility shift assay.
+RNAi-mediated silencing of FOXC2 in A549, H157, and H358 cells resulted in
+increasing p120ctn promoter activity as well as mRNA and protein levels. Finally,
+silencing FOXC2 in these NSCLC cells enhanced E-cadherin level, which was
+reversed by simultaneous silencing of p120ctn. In summary, our data support the
+notion that FOXC2 mediates the transcriptional repression of p120ctn in NSCLC.
+
+
+PMID: 20460685 [PubMed - indexed for MEDLINE]
+
+
+4. Biol Reprod. 2010 Aug 1;83(2):296-306. Epub 2010 Apr 28.
+
+Regulation of a bovine nonclassical major histocompatibility complex class I gene
+promoter.
+
+O'Gorman GM, Naib AA, Ellis SA, Mamo S, O'Doherty AM, Lonergan P, Fair T.
+
+School of Agriculture, Food Science & Veterinary Medicine, University College
+Dublin, Belfield, Dublin, Ireland.
+
+Studies have shown in humans and other species that the major histocompatibility 
+complex class I (MHC-I) region is involved at a number of levels in the
+establishment and maintenance of pregnancy. The aim of this study was to
+characterize how a bovine nonclassical MHC-I gene (NC1) is regulated. Initial
+serial deletion experiments of a 2-kb fragment of the NC1 promoter identified
+regions with positive regulatory elements in the proximal promoter and evidence
+for a silencer module(s) further upstream that cooperatively contributed to
+constitutive NC1 expression. The cytokines interferon tau (IFNT), interferon
+gamma (IFNG), and interleukin 4 (IL4) significantly increased luciferase
+expression in NC1 promoter reporter constructs and endogenous NC1 mRNA levels in 
+a bovine endometrial cell line. In addition, IFNG, IL3, IL4, and progesterone
+significantly increased Day 7 bovine blastocyst NC1 mRNA expression when
+supplemented during in vitro embryo culture. Site-directed mutagenesis analysis
+identified a STAT6 binding site that conferred IL4 responsiveness in the NC1
+proximal promoter. Furthermore, methylation treatment of the proximal promoter,
+which contains a CpG island, completely abrogated constitutive NC1 expression.
+Overall, the findings presented here suggest that constitutive NC1 expression is 
+regulated positively by elements in the proximal promoter, which are further
+controlled by upstream silencer modules. The promoter is responsive to IFNT,
+IFNG, and IL4, suggesting possible roles for these cytokines in bovine
+preimplantation embryo survival and/or maternal-fetal tolerance. Our studies also
+suggest that methylation of the proximal promoter, in particular, could play a
+significant role in regulating NC1 expression.
+
+
+PMID: 20427761 [PubMed - indexed for MEDLINE]
+
+
+5. Exp Cell Res. 2010 Feb 1;316(3):466-76. Epub 2009 Sep 26.
+
+Stanniocalcin-2 is a HIF-1 target gene that promotes cell proliferation in
+hypoxia.
+
+Law AY, Wong CK.
+
+Department of Biology, Hong Kong Baptist University, Kowloon Tong, Hong Kong.
+
+Stanniocalcin-2 (STC2), the paralog of STC1, has been suggested as a novel target
+of oxidative stress response to protect cells from apoptosis. The expression of
+STC2 has been reported to be highly correlated with human cancer development. In 
+this study, we reported that STC2 is a HIF-1 target gene and is involved in the
+regulation of cell proliferation. STC2 was shown to be up-regulated in different 
+breast and ovarian cancer cells, following exposure to hypoxia. Using ovarian
+cancer cells (SKOV3), the underlying mechanism of HIF-1 mediated STC2 gene
+transactivation was characterized. Hypoxia-induced STC2 expression was found to
+be HIF-1alpha dependent and required the recruitment of p300 and HDAC7. Using
+STC2 promoter deletion constructs and site-directed mutagenesis, two authentic
+consensus HIF-1 binding sites were identified. Under hypoxic condition, the
+silencing of STC2 reduced while the overexpression of STC2 increased the levels
+of phosphorylated retinoblastoma and cyclin D in both SKOV3 and MCF7 cells. The
+change in cell cycle proteins correlated with the data of the serial cell counts.
+The results indicated that cell proliferation was reduced in STC2-silenced cells 
+but was increased in STC2-overexpressing hypoxic cells. Solid tumor progression
+is usually associated with hypoxia. The identification and functional analysis of
+STC2 up-regulation by hypoxia, a feature of the tumor microenvironment, sheds
+light on a possible role for STC2 in tumors.
+
+
+PMID: 19786016 [PubMed - indexed for MEDLINE]
+
+
+6. Methods Mol Biol. 2009;567:113-32.
+
+Serial analysis of binding elements for transcription factors.
+
+Chen J.
+
+Department of Biological Sciences, Mississippi State University, Mississippi
+State, MS, USA.
+
+The ability to determine genome-wide location of transcription factor binding
+sites (TFBS) is crucial for elucidating gene regulatory networks in human cells
+during normal development and disease such as tumorigenesis. To achieve this
+goal, we developed a method called serial analysis of binding elements for
+transcription factors (SABE) for globally identifying TFBS in human or other
+mammalian genomes. In this method, a specific antibody targeting a DNA-binding
+transcription factor of interest is used to pull down the transcription factor
+and its bound DNA elements through chromatin immunoprecipitation (ChIP). ChIP DNA
+fragments are further enriched by subtractive hybridization against non-enriched 
+DNA and analyzed through generation of sequence tags similar to serial analysis
+of gene expression (SAGE). The SABE method circumvents the need for microarrays
+and is able to identify immunoprecipitated loci in an unbiased manner. The
+combination of ChIP, subtractive hybridization, and SAGE-type methods is
+advantageous over other similar strategies to reduce the level of intrinsic noise
+sequences that is typically present in ChIP samples from human or other mammalian
+cells.
+
+
+PMID: 19588089 [PubMed - indexed for MEDLINE]
+
+
+7. J Biol Chem. 2009 Jul 24;284(30):19856-66. Epub 2009 Jun 2.
+
+A novel POK family transcription factor, ZBTB5, represses transcription of
+p21CIP1 gene.
+
+Koh DI, Choi WI, Jeon BN, Lee CE, Yun CO, Hur MW.
+
+Department of Biochemistry and Molecular Biology, Brain Korea 21 Project for
+Medical Science, Institute of Genetic Science, Yonsei University School of
+Medicine, SeoDaeMoon-Ku, Seoul 120-752, Korea.
+
+Transcriptional repression through chromatin remodeling and histone deacetylation
+has been postulated as a driving force for tumorigenesis. We isolated and
+characterized a novel POZ domain Krüppel-like zinc finger transcription
+repressor, ZBTB5 (zinc finger and BTB domain-containing 5). Serial analysis of
+gene expression (SAGE) analysis showed that ZBTB5 expression is higher in
+retinoblastoma and muscle cancer tissues. Immunocytochemistry showed that ZBTB5
+was localized to the nucleus, particularly nuclear speckles. ZBTB5 directly
+repressed transcription of cell cycle arrest gene p21 by binding to the proximal 
+GC-box 5/6 elements and the two distal p53-responsive elements (bp -2323
+approximately -2299; bp -1416 approximately -1392). Chromatin immunoprecipitation
+assays showed that ZBTB5 and p53 competed with each other in occupying the p53
+binding elements. ZBTB5 interacted with co-repressor-histone deacetylase
+complexes such as BCoR (BCL-6-interacting corepressor), NCoR (nuclear receptor
+corepressor), and SMRT (silencing mediator for retinoid and thyroid receptors)
+via its POZ domain. These interactions resulted in deacetylation of histones
+Ac-H3 and Ac-H4 at the proximal promoter, which is important in the
+transcriptional repression of p21. MTT (3-(4,5-di meth yl thi
+azol-2-yl)-2,5-diphenyltetrazolium bromide) assays and fluorescent-activated cell
+sorter analysis revealed that ZBTB5 stimulated both cell proliferation and cell
+cycle progression, significantly increasing the number of cells in S-phase.
+Overall, our data suggest that ZBTB5 is a potent transcription repressor of cell 
+cycle arrest gene p21 and a potential proto-oncogene stimulating cell
+proliferation.
+
+
+PMCID: PMC2740411
+PMID: 19491398 [PubMed - indexed for MEDLINE]
+
+
+8. Am J Physiol Cell Physiol. 2009 Jan;296(1):C13-24. Epub 2008 Oct 22.
+
+Cell confluency-induced Stat3 activation regulates NHE3 expression by recruiting 
+Sp1 and Sp3 to the proximal NHE3 promoter region during epithelial dome
+formation.
+
+Su HW, Wang SW, Ghishan FK, Kiela PR, Tang MJ.
+
+Institute of Basic Medical Sciences, College of Medicine, National Cheng Kung
+University, 1 Univ. Road, Tainan 70101, Taiwan.
+
+Activation of signal transducer and activator of transcription-3 (Stat3) during
+cell confluency is related to its regulatory roles in cell growth arrest- or
+survival-related physiological or developmental processes. We previously
+demonstrated that this signaling event triggers epithelial dome formation by
+transcriptional augmentation of sodium hydrogen exchanger-3 (NHE3) expression.
+However, the detailed molecular mechanism remained unclear. By using serial
+deletions, site-directed mutagenesis, and EMSA analysis, we now demonstrate Stat3
+binding to an atypical Stat3-response element in the rat proximal NHE3 promoter, 
+located adjacent to a cluster of Sp cis-elements (SpA/B/C), within -77/-36 nt of 
+the gene. SpB (-58/-55 nt) site was more effective than SpA (-72/-69 nt) site for
+cooperative binding of Sp1/Sp3. Increasing cell density had no effect on Sp1/Sp3 
+expression but resulted in their increased binding to the SpA/B/C probe along
+with Stat3 and concurrently with enhanced nuclear pTyr705-Stat3 level.
+Immunoprecipitation performed with the nuclear extracts demonstrated physical
+interaction of Stat3 and Sp1/Sp3 triggered by cell confluency. Stat3 inhibition
+by overexpression of dominant-negative Stat3-D mutant in MDCK cells or by small
+interfering RNA-mediated knockdown in Caco-2 cells resulted in inhibition of the 
+cell density-induced NHE3 expression, Sp1/Sp3 binding, and NHE3 promoter activity
+and in decreased dome formation. Thus, during confluency, ligand-independent
+Stat3 activation leads to its interaction with Sp1/Sp3, their recruitment to the 
+SpA/B/C cluster in a Stat3 DNA-binding domain-dependent fashion, increased
+transcription, and expression of NHE3, to coordinate cell density-mediated
+epithelial dome formation.
+
+
+PMCID: PMC2637000
+PMID: 19064501 [PubMed - indexed for MEDLINE]
+
+
+9. Free Radic Biol Med. 2008 Dec 15;45(12):1642-52. Epub 2008 Sep 23.
+
+Tumor necrosis factor alpha activates transcription of the NADPH oxidase
+organizer 1 (NOXO1) gene and upregulates superoxide production in colon
+epithelial cells.
+
+Kuwano Y, Tominaga K, Kawahara T, Sasaki H, Takeo K, Nishida K, Masuda K, Kawai
+T, Teshima-Kondo S, Rokutan K.
+
+Department of Stress Science, Institute of Health Biosciences, University of
+Tokushima Graduate School, Tokushima, Japan.
+
+NADPH oxidase 1 (Nox1) is a multicomponent enzyme consisting of p22(phox), Nox
+organizer 1 (NOXO1), Nox1 activator 1, and Rac1. Interleukin-1beta, flagellin,
+interferon-gamma, and tumor necrosis factor alpha (TNF-alpha) similarly induced
+Nox1 in a colon cancer cell line (T84), whereas only TNF-alpha fully induced
+NOXO1 and upregulated superoxide-producing activity by ninefold. This
+upregulation was canceled by knockdown of NOXO1 with small interfering RNAs.
+TNF-alpha rapidly phosphorylated p38 mitogen-activated protein kinase and c-Jun
+N-terminal kinase 1/2, followed by phosphorylation of c-Jun and c-Fos and
+appearance of an AP-1 binding activity within 30 min. We cloned the 5' flank of
+the human NOXO1 gene (-3888 to +263 bp), and found that the region between -585
+and -452 bp, which contains consensus elements of YY-1, AP-1, and Ets, and the
+GC-rich region encoding three putative binding sites for SP-1, was crucial for
+TNF-alpha-dependent promoter activity. Serial mutation analysis of the elements
+identified an AP-1 binding site (from -561 to -551 bp, agtAAGtcatg) as a crucial 
+element for TNF-alpha-stimulated transcription of the human NOXO1 gene, which was
+also confirmed by the AP-1 decoy experiments. Thus, TNF-alpha acts as a potent
+activator of Nox1-based oxidase in colon epithelial cells, suggesting a potential
+role of this oxidase in inflammation of the colon.
+
+
+PMID: 18929641 [PubMed - indexed for MEDLINE]
+
+
+10. Mol Cell Biol. 2008 Dec;28(24):7368-79. Epub 2008 Oct 13.
+
+A genome-wide screen for beta-catenin binding sites identifies a downstream
+enhancer element that controls c-Myc gene expression.
+
+Yochum GS, Cleland R, Goodman RH.
+
+Vollum Institute and Department of Medicine, Oregon Health and Science
+University, 3181 SW Sam Jackson Park Rd., Portland, OR 97239, USA.
+yochumg@ohsu.edu
+
+Mutations in components of the Wnt signaling pathway initiate colorectal
+carcinogenesis by deregulating the beta-catenin transcriptional coactivator.
+beta-Catenin activation of one target in particular, the c-Myc proto-oncogene, is
+required for colon cancer pathogenesis. beta-Catenin is known to regulate c-Myc
+expression via sequences upstream of the transcription start site. Here, we
+report that a more robust beta-catenin binding region localizes 1.4 kb downstream
+from the c-Myc transcriptional stop site. This site was discovered using a
+genome-wide method for identifying transcription factor binding sites termed
+serial analysis of chromatin occupancy. Chromatin immunoprecipitation-scanning
+assays demonstrate that the 5' enhancer and the 3' binding element are the only
+beta-catenin and TCF4 binding regions across the c-Myc locus. When placed
+downstream of a simian virus 40-driven promoter-luciferase construct, the 3'
+element activated luciferase transcription when introduced into HCT116 cells.
+c-Myc transcription is negligible in quiescent HCT116 cells but is induced when
+cells reenter the cell cycle after the addition of mitogens. Using these cells,
+we found that beta-catenin and TCF4 occupancy at the 3' enhancer precede
+occupancy at the 5' enhancer. Association of c-Jun, beta-catenin, and TCF4
+specifically with the downstream enhancer underlies mitogen stimulation of c-Myc 
+transcription. Our findings indicate that a downstream enhancer element provides 
+the principal regulation of c-Myc expression.
+
+
+PMCID: PMC2593444
+PMID: 18852287 [PubMed - indexed for MEDLINE]
+
+
+11. Mol Cancer Ther. 2008 Jun;7(6):1365-75. Epub 2008 Jun 4.
+
+Modulation of the expression of the invasion-suppressor CRMP-1 by
+cyclooxygenase-2 inhibition via reciprocal regulation of Sp1 and C/EBPalpha.
+
+Wu CC, Lin JC, Yang SC, Lin CW, Chen JJ, Shih JY, Hong TM, Yang PC.
+
+Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan.
+
+Collapsin response mediator protein-1 (CRMP-1) controls neural development and
+axonal growth but also acts as a cancer invasion suppressor. In this study, we
+investigated the transcriptional regulation of CRMP-1 expression. Using a serial 
+deletion strategy, we identified a basal promoter region between nucleotides -100
+and -180 in the 5' flanking region of CRMP-1 (nucleotides -1,920 to +50) that
+contains multiple putative Sp1 and C/EBPalpha sites. Site-directed mutagenesis
+and deletion analysis revealed that the two C/EBPalpha sites, from nucleotides
+-122 to -133 and from nucleotides -101 to -113, are the most important regulatory
+elements. Gel-shift and antibody supershift assays showed that Sp1 protein was
+also present at this C/EBPalpha site, which overlaps with a Sp1 site.
+Overexpression of Sp1 decreased CRMP-1 promoter activity and protein expression, 
+whereas overexpression of C/EBPalpha produced the opposite effect. Chromatin
+immunoprecipitation assays confirmed that Sp1 and C/EBPalpha compete for binding 
+at the overlapping C/EBPalpha and Sp1 sites and reciprocally regulate CRMP-1
+expression. Overexpression of cyclooxygenase-2 (COX-2) decreased CRMP-1 mRNA and 
+protein expression. Conversely, the COX-2 inhibitor, celecoxib, induced a
+dose-dependent increase in CRMP-1 expression. COX-2 inhibition also decreased
+Sp1-DNA complex formation and inhibited cell invasion. We conclude that
+transcription of the invasion suppressor, CRMP-1, is reciprocally regulated at
+the promoter region by C/EBPalpha and Sp1. COX-2 inhibitors increase CRMP-1
+expression by inhibiting Sp1-DNA complex formation and enhancing DNA binding of
+C/EBPalpha at the promoter.
+
+
+PMID: 18524846 [PubMed - indexed for MEDLINE]
+
+
+12. J Biol Chem. 2007 Nov 2;282(44):32084-92. Epub 2007 Aug 30.
+
+Characterization of pancreatic transcription factor Pdx-1 binding sites using
+promoter microarray and serial analysis of chromatin occupancy.
+
+Keller DM, McWeeney S, Arsenlis A, Drouin J, Wright CV, Wang H, Wollheim CB,
+White P, Kaestner KH, Goodman RH.
+
+Vollum Institute, and Division of Biostatistics, Department of Public Health and 
+Preventative Medicine, Oregon Health & Science University, Portland, Oregon
+97239, USA. kellerd@ohsu.edu
+
+The homeobox transcription factor Pdx-1 is necessary for pancreas organogenesis
+and beta cell function, however, most Pdx-1-regulated genes are unknown. To
+further the understanding of Pdx-1 in beta cell biology, we have characterized
+its genomic targets in NIT-1 cells, a mouse insulinoma cell line. To identify
+novel targets, we developed a microarray that includes traditional promoters as
+well as non-coding conserved elements, micro-RNAs, and elements identified
+through an unbiased approach termed serial analysis of chromatin occupancy. In
+total, 583 new Pdx-1 target genes were identified, many of which contribute to
+energy sensing and insulin release in pancreatic beta cells. By analyzing 31 of
+the protein-coding Pdx-1 target genes, we show that 29 are expressed in beta
+cells and, of these, 68% are down- or up-regulated in cells expressing a dominant
+negative mutant of Pdx-1. We additionally show that many Pdx-1 targets also
+interact with NeuroD1/BETA2, including the micro-RNA miR-375, a known regulator
+of insulin secretion.
+
+
+PMID: 17761679 [PubMed - indexed for MEDLINE]
+
+
+13. Genes Dev. 2007 Jul 1;21(13):1653-74.
+
+The molecular signature and cis-regulatory architecture of a C. elegans gustatory
+neuron.
+
+Etchberger JF, Lorch A, Sleumer MC, Zapf R, Jones SJ, Marra MA, Holt RA, Moerman 
+DG, Hobert O.
+
+Howard Hughes Medical Institute, Department of Biochemistry and Molecular
+Biophysics, Columbia University Medical Center, New York, NY 10032, USA.
+
+Taste receptor cells constitute a highly specialized cell type that perceives and
+conveys specific sensory information to the brain. The detailed molecular
+composition of these cells and the mechanisms that program their fate are, in
+general, poorly understood. We have generated serial analysis of gene expression 
+(SAGE) libraries from two distinct populations of single, isolated sensory neuron
+classes, the gustatory neuron class ASE and the thermosensory neuron class AFD,
+from the nematode Caenorhabditis elegans. By comparing these two libraries, we
+have identified >1000 genes that define the ASE gustatory neuron class on a
+molecular level. This set of genes contains determinants of the differentiated
+state of the ASE neuron, such as a surprisingly complex repertoire of
+transcription factors (TFs), ion channels, neurotransmitters, and receptors, as
+well as seven-transmembrane receptor (7TMR)-type putative gustatory receptor
+genes. Through the in vivo dissection of the cis-regulatory regions of several
+ASE-expressed genes, we identified a small cis-regulatory motif, the "ASE motif,"
+that is required for the expression of many ASE-expressed genes. We demonstrate
+that the ASE motif is a binding site for the C2H2 zinc finger TF CHE-1, which is 
+essential for the correct differentiation of the ASE gustatory neuron. Taken
+together, our results provide a unique view of the molecular landscape of a
+single neuron type and reveal an important aspect of the regulatory logic for
+gustatory neuron specification in C. elegans.
+
+
+PMCID: PMC1899474
+PMID: 17606643 [PubMed - indexed for MEDLINE]
+
+
+14. BMC Genomics. 2007 Apr 11;8:99.
+
+Comparative genomics and experimental promoter analysis reveal functional
+liver-specific elements in mammalian hepatic lipase genes.
+
+van Deursen D, Botma GJ, Jansen H, Verhoeven AJ.
+
+Department of Biochemistry, Cardiovascular Research School COEUR, Erasmus MC,
+Rotterdam, The Netherlands. d.vandeursen@erasmusmc.nl
+
+BACKGROUND: Mammalian hepatic lipase (HL) genes are transcribed almost
+exclusively in hepatocytes. The basis for this liver-restricted expression is not
+completely understood. We hypothesized that the responsible cis-acting elements
+are conserved among mammalian HL genes. To identify these elements, we made a
+genomic comparison of 30 kb of 5'-flanking region of the rat, mouse, rhesus
+monkey, and human HL genes. The in silico data were verified by promoter-reporter
+assays in transfected hepatoma HepG2 and non-hepatoma HeLa cells using serial
+5'-deletions of the rat HL (-2287/+9) and human HL (-685/+13) promoter region.
+RESULTS: Highly conserved elements were present at the proximal promoter region, 
+and at 14 and 22 kb upstream of the transcriptional start site. Both of these
+upstream elements increased transcriptional activity of the human HL (-685/+13)
+promoter region 2-3 fold. Within the proximal HL promoter region, conserved
+clusters of transcription factor binding sites (TFBS) were identified at
+-240/-200 (module A), -80/-40 (module B), and -25/+5 (module C) by the rVista
+software. In HepG2 cells, modules B and C, but not module A, were important for
+basal transcription. Module B contains putative binding sites for hepatocyte
+nuclear factors HNF1alpha. In the presence of module B, transcription from the
+minimal HL promoter was increased 1.5-2 fold in HepG2 cells, but inhibited 2-4
+fold in HeLa cells. CONCLUSION: Our data demonstrate that searching for conserved
+non-coding sequences by comparative genomics is a valuable tool in identifying
+candidate enhancer elements. With this approach, we found two putative enhancer
+elements in the far upstream region of the HL gene. In addition, we obtained
+evidence that the -80/-40 region of the HL gene is responsible for enhanced HL
+promoter activity in hepatoma cells, and for silencing HL promoter activity in
+non-liver cells.
+
+
+PMCID: PMC1853088
+PMID: 17428321 [PubMed - indexed for MEDLINE]
+
+
+15. Nat Protoc. 2006;1(3):1481-93.
+
+Serial analysis of binding elements for human transcription factors.
+
+Chen J.
+
+Department of Pediatrics, The University of Texas Health Science Center at San
+Antonio, Texas 78229, USA. chenj5@uthscsa.edu
+
+Serial analysis of binding elements (SABE) is a method that can be used to
+identify the genome-wide location of transcription factor binding sites in human 
+or other mammalian cells. In this method, a specific antibody targeting a
+DNA-binding transcription factor of interest is used to pull down the
+transcription factor and its bound DNA elements through chromatin
+immunoprecipitation (ChIP). ChIP DNA fragments are further enriched by
+subtractive hybridization against non-enriched DNA using representational
+difference analysis (RDA) and analyzed through the generation of sequence tags
+similar to serial analysis of gene expression (SAGE). The SABE method circumvents
+the need for microarrays and is able to identify immunoprecipitated loci in an
+unbiased manner. The combination of ChIP, RDA and SAGE-type methods has
+advantages over other similar strategies in reducing the level of intrinsic noise
+sequences that are typically present in ChIP samples from human cells. This
+protocol takes about 2 weeks to complete.
+
+
+PMID: 17406439 [PubMed - indexed for MEDLINE]
+
+
+16. Mol Biol Rep. 2007 Jun;34(2):69-77. Epub 2007 Mar 30.
+
+Identification and analysis of the promoter region of the human PLC-delta4 gene.
+
+Chae SW, Kim JM, Yun YP, Lee WK, Kim JS, Kim YH, Lee KS, Ko YJ, Lee KH, Rha HK.
+
+Neuroscience Genome Research Center, The Catholic University of Korea,
+Banpo-dong, Socho-ku, Seoul 137-701, Korea.
+
+The delta4 isoform of phospholipase C (PLC-delta4) is thought to be associated
+with various cellular functions and disease status. However, little is known
+about how its function is controlled in cells, particularly in terms of the
+regulation of its expression. To understand the regulation mechanisms of the
+PLC-delta4 gene transcription, the 5'-flanking region (-2046 approximately +5)
+(the nucleotide sequence data reported in this paper have been submitted to the
+EMBL/GenBank/DDBJ data bank under accession numbers DQ302751) of the human
+PLC-delta4 gene was isolated from human genomic DNA. It was a TATA-less promoter 
+with very GC-rich sequences near the transcription start site. The activity of
+the PLC-delta4 promoter was shown in various human and mouse cell lines by
+luciferase reporter assay. Serial deletion analysis identified the core promoter 
+region as being between -402 and -67, in which an E-box and an AP-1 binding site 
+played important roles in the promoter activity. In addition, we also showed that
+12-O-tetradecanoylphorbol-1,3-acetate (TPA), a PKC activator and tumor promoter, 
+induced the activity of the PLC-delta4 promoter via the AP-1 binding site. In
+summary, this study identified a core promoter region of the hPLC-delta4 gene and
+the factor binding sites responsible for the promoter activity. These results
+will provide important new information to further understand the regulatory
+mechanism of the PLC-delta4 function.
+
+
+PMID: 17394098 [PubMed - indexed for MEDLINE]
+
+
+17. Biochim Biophys Acta. 2007 Mar;1769(3):204-8. Epub 2007 Feb 7.
+
+Promoter analysis of human CC chemokine CCL23 gene in U937 monocytoid cells.
+
+Shin YH, Lee GW, Son KN, Lee SM, Kang CJ, Kwon BS, Kim J.
+
+Graduate School of Biotechnology and Institute of Life Sciences and Resources,
+Kyung Hee University, Yongin 449-701, Korea.
+
+Expression of CCL23 is induced by external stimuli including PMA in monocytes,
+but its transcriptional regulation has not been studied to date. Serial deletion 
+analysis of its 5' flanking region revealed that the region -293 to +31 was
+important for induction by PMA. Cis-acting elements at the -269/-264 (NFAT site),
+-167/-159 (NF-kappaB site), and -51/-43 (AP-1 site) positions were identified as 
+the critical sites for the CCL23 expression in U937 cells. We demonstrated the
+binding of the transcription factors to the consensus sites. Specific inhibitors 
+for signal pathways reduced PMA-induced expression of CCL23, confirming
+involvement of these transcription factors.
+
+
+PMID: 17368823 [PubMed - indexed for MEDLINE]
+
+
+18. J Invest Dermatol. 2007 May;127(5):1187-96. Epub 2006 Dec 14.
+
+IFN-gamma upregulates expression of the mouse complement C1rA gene in
+keratinocytes via IFN-regulatory factor-1.
+
+Byun SJ, Jeon IS, Lee H, Kim TY.
+
+National Livestock Research Institute, Division of Animal Biotechnology, Suwon,
+South Korea.
+
+We examined the expression of the mouse complement component C1rA (mC1rA) in
+IFN-gamma-stimulated mouse keratinocytes (Pam 212) and found that it was
+upregulated. To analyze the mechanism involved, we cloned the 2,150 bp
+5'-flanking region of mC1rA by the vectorette-PCR technique, and identified the
+transcription start site of mC1rA by rapid amplification of complementary DNA
+ends. Analysis of the 5' sequence revealed putative binding sites for activator
+protein 1, CCAAT/enhancer binding protein (C/EBP), signal transducer and
+activator of transcription 1 (STAT-1), IFN-regulatory factor-1 (IRF-1), and
+others. We detected transcriptional activation dependent on this upstream region 
+in reporter gene assays and Northern blots. To identify the cis-acting regulatory
+elements involved, we analyzed serial deletion constructs of the promoter using
+luciferase reporters. The -80 to -19 bp region, which contains a putative IRF-1
+binding site, was required for both basal promoter activity and responses to
+IFN-gamma. The use of site-directed point mutations, electrophoresis mobility
+shift assays, and supershift assays indicated that the putative IRF-1 binding
+site was essential for both IFN-gamma-dependent and -independent transcriptional 
+activity of the mC1rA promoter. We conclude that IFN-gamma stimulates mC1rA gene 
+expression via IRF-1 in mouse keratinocytes.
+
+
+PMID: 17159910 [PubMed - indexed for MEDLINE]
+
+
+19. J Biol Chem. 2007 Jan 12;282(2):871-8. Epub 2006 Nov 22.
+
+An antisense transcript induced by Wnt/beta-catenin signaling decreases E2F4.
+
+Yochum GS, Cleland R, McWeeney S, Goodman RH.
+
+Vollum Institute, Division of Biostatistics, Department of Public Health and
+Preventative Medicine, OHSU Cancer Institute, Oregon Health and Science
+University, Portland 97239, USA. yochumg@ohsu.edu
+
+Wnt signaling induces the nuclear accumulation of beta-catenin and transcription 
+of specific target genes via the DNA-binding proteins TCF/Lef. Although all known
+beta-catenin target genes encode proteins, genome-wide RNA profiling studies
+indicate that many transcripts do not have this capability. Transcription
+factor-binding sites associated with these noncoding transcripts can be
+identified using unbiased techniques such as serial analysis of chromatin
+occupancy (SACO). We used this method to identify a beta-catenin-regulated
+antisense RNA expressed in HCT116 colorectal carcinoma cells, a cellular model of
+activated beta-catenin signaling. Genomic signature tags designating putative
+beta-catenin-binding sites mapped to the 3'-untranslated region (3'-UTR) of the
+E2F4 gene. We showed that both beta-catenin and TCF4 bind to the E2F4 3'-UTR site
+in vivo, inducing expression of an E2F4 antisense transcript. LiCl, which mimics 
+Wnt signaling, also induced expression of the E2F4 antisense transcript and
+decreased E2F4 protein levels. This effect was blocked by a cDNA expressing the
+E2F4 3'-UTR sense strand. The antisense-mediated decrease in E2F4 protein was
+reflected by reduced E2F4 association with specific target genes, including
+CCNA2, CDC2, PCNA, and Rad54. We propose that Wnt/beta-catenin signaling may
+contribute to colorectal carcinogenesis by reducing the level of the E2F4 cell
+cycle repressor via an antisense mechanism.
+
+
+PMID: 17121828 [PubMed - indexed for MEDLINE]
+
+
+20. Breast Cancer Res. 2006;8(6):R64.
+
+GATA3 protein as a MUC1 transcriptional regulator in breast cancer cells.
+
+Abba MC, Nunez MI, Colussi AG, Croce MV, Segal-Eiras A, Aldaz CM.
+
+Department of Carcinogenesis, The University of Texas MD Anderson Cancer Center, 
+Science Park--Research Division, Smithville, TX 78957, USA. mabba777@hotmail.com
+
+INTRODUCTION: Recent studies have demonstrated that members of the GATA-binding
+protein (GATA) family (GATA4 and GATA5) might have pivotal roles in the
+transcriptional upregulation of mucin genes (MUC2, MUC3 and MUC4) in
+gastrointestinal epithelium. The zinc-finger GATA3 transcription factor has been 
+reported to be involved in the growth control and differentiation of breast
+epithelial cells. In SAGE (serial analysis of gene expression) studies we
+observed an intriguing significant correlation between GATA3 and MUC1 mRNA
+expression in breast carcinomas. We therefore designed the present study to
+elucidate whether MUC1 expression is regulated by GATA3 in breast cancer cells.
+METHODS: Promoter sequence analysis of the MUC1 gene identified six GATA cis
+consensus elements in the 5' flanking region (GATA1, GATA3 and four GATA-like
+sequences). Chromatin immunoprecipitation and electrophoretic mobility-shift
+assays were employed to study the presence of a functional GATA3-binding site.
+GATA3 and MUC1 expression was analyzed in vitro with a GATA3 knockdown assay.
+Furthermore, expression of GATA3 and MUC1 genes was analyzed by real-time RT-PCR 
+and immunohistochemistry on breast cancer-specific tissue microarrays. RESULTS:
+We confirmed the presence of a functional GATA3-binding site on the MUC1 promoter
+region in the MCF7 cell line. We determined that GATA3 knockdown assays led to a 
+decrease in MUC1 protein expression in MCF7 and T47D cells. In addition, we
+detected a statistically significant correlation in expression between GATA3 and 
+MUC1 genes at the mRNA and protein levels both in normal breast epithelium and in
+breast carcinomas (p = 0.01). GATA3 expression was also highly associated with
+estrogen receptor and progesterone receptor status (p = 0.0001) and tumor grade
+(p = 0.004) in breast carcinomas. CONCLUSION: Our study provides evidence
+indicating that GATA3 is probably a mediator for the transcriptional upregulation
+of MUC1 expression in some breast cancers.
+
+
+PMCID: PMC1797033
+PMID: 17078870 [PubMed - indexed for MEDLINE]
+

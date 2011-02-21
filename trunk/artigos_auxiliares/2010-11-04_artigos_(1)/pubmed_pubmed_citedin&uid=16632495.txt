@@ -1,0 +1,211 @@
+1. BMC Bioinformatics. 2009 Oct 7;10:321.
+
+Discovering multiple realistic TFBS motifs based on a generalized model.
+
+Chan TM, Li G, Leung KS, Lee KH.
+
+Department of Computer Science & Engineering, The Chinese University of Hong
+Kong, Shatin, N, T,, Hong Kong. tmchan@cse.cuhk.edu.hk
+
+BACKGROUND: Identification of transcription factor binding sites (TFBSs) is a
+central problem in Bioinformatics on gene regulation. de novo motif discovery
+serves as a promising way to predict and better understand TFBSs for biological
+verifications. Real TFBSs of a motif may vary in their widths and their
+conservation degrees within a certain range. Deciding a single motif width by
+existing models may be biased and misleading. Additionally, multiple, possibly
+overlapping, candidate motifs are desired and necessary for biological
+verification in practice. However, current techniques either prohibit overlapping
+TFBSs or lack explicit control of different motifs. RESULTS: We propose a new
+generalized model to tackle the motif widths by considering and evaluating a
+width range of interest simultaneously, which should better address the width
+uncertainty. Moreover, a meta-convergence framework for genetic algorithms (GAs),
+is proposed to provide multiple overlapping optimal motifs simultaneously in an
+effective and flexible way. Users can easily specify the difference amongst
+expected motif kinds via similarity test. Incorporating Genetic Algorithm with
+Local Filtering (GALF) for searching, the new GALF-G (G for generalized)
+algorithm is proposed based on the generalized model and meta-convergence
+framework. CONCLUSION: GALF-G was tested extensively on over 970 synthetic, real 
+and benchmark datasets, and is usually better than the state-of-the-art methods. 
+The range model shows an increase in sensitivity compared with the single-width
+ones, while providing competitive precisions on the E. coli benchmark.
+Effectiveness can be maintained even using a very small population, exhibiting
+very competitive efficiency. In discovering multiple overlapping motifs in a real
+liver-specific dataset, GALF-G outperforms MEME by up to 73% in overall F-scores.
+GALF-G also helps to discover an additional motif which has probably not been
+annotated in the dataset. http://www.cse.cuhk.edu.hk/%7Etmchan/GALFG/
+
+
+PMCID: PMC2770069
+PMID: 19811641 [PubMed - indexed for MEDLINE]
+
+
+2. DNA Res. 2009 Oct;16(5):261-73. Epub 2009 Sep 9.
+
+Exhaustive search for over-represented DNA sequence motifs with CisFinder.
+
+Sharov AA, Ko MS.
+
+Developmental Genomics and Aging Section, Laboratory of Genetics, National
+Institute on Aging, NIH, Baltimore, MD 21224, USA.
+
+We present CisFinder software, which generates a comprehensive list of motifs
+enriched in a set of DNA sequences and describes them with position frequency
+matrices (PFMs). A new algorithm was designed to estimate PFMs directly from
+counts of n-mer words with and without gaps; then PFMs are extended over gaps and
+flanking regions and clustered to generate non-redundant sets of motifs. The
+algorithm successfully identified binding motifs for 12 transcription factors
+(TFs) in embryonic stem cells based on published chromatin immunoprecipitation
+sequencing data. Furthermore, CisFinder successfully identified alternative
+binding motifs of TFs (e.g. POU5F1, ESRRB, and CTCF) and motifs for known and
+unknown co-factors of genes associated with the pluripotent state of ES cells.
+CisFinder also showed robust performance in the identification of motifs that
+were only slightly enriched in a set of DNA sequences.
+
+
+PMCID: PMC2762409
+PMID: 19740934 [PubMed - indexed for MEDLINE]
+
+
+3. J Comput Biol. 2009 Feb;16(2):317-29.
+
+GADEM: a genetic algorithm guided formation of spaced dyads coupled with an EM
+algorithm for motif discovery.
+
+Li L.
+
+Biostatistics Branch, National Institute of Environmental Health Sciences, NIH,
+Research Triangle Park, NC 27709, USA. li3@niehs.nih.gov
+
+Genome-wide analyses of protein binding sites generate large amounts of data; a
+ChIP dataset might contain 10,000 sites. Unbiased motif discovery in such
+datasets is not generally feasible using current methods that employ
+probabilistic models. We propose an efficient method, GADEM, which combines
+spaced dyads and an expectation-maximization (EM) algorithm. Candidate words
+(four to six nucleotides) for constructing spaced dyads are prioritized by their 
+degree of overrepresentation in the input sequence data. Spaced dyads are
+converted into starting position weight matrices (PWMs). GADEM then employs a
+genetic algorithm (GA), with an embedded EM algorithm to improve starting PWMs,
+to guide the evolution of a population of spaced dyads toward one whose entropy
+scores are more statistically significant. Spaced dyads whose entropy scores
+reach a pre-specified significance threshold are declared motifs. GADEM performed
+comparably with MEME on 500 sets of simulated "ChIP" sequences with embedded
+known P53 binding sites. The major advantage of GADEM is its computational
+efficiency on large ChIP datasets compared to competitors. We applied GADEM to
+six genome-wide ChIP datasets. Approximately, 15 to 30 motifs of various lengths 
+were identified in each dataset. Remarkably, without any prior motif information,
+the expected known motif (e.g., P53 in P53 data) was identified every time. GADEM
+discovered motifs of various lengths (6-40 bp) and characteristics in these
+datasets containing from 0.5 to >13 million nucleotides with run times of 5 to 96
+h. GADEM can be viewed as an extension of the well-known MEME algorithm and is an
+efficient tool for de novo motif discovery in large-scale genome-wide data. The
+GADEM software is available at
+(www.niehs.nih.gov/research/resources/software/GADEM/).
+
+
+PMCID: PMC2756050
+PMID: 19193149 [PubMed - indexed for MEDLINE]
+
+
+4. Nucleic Acids Res. 2008 Dec;36(21):e142. Epub 2008 Oct 15.
+
+Evolutionary computation for discovery of composite transcription factor binding 
+sites.
+
+Fogel GB, Porto VW, Varga G, Dow ER, Craven AM, Powers DM, Harlow HB, Su EW,
+Onyia JE, Su C.
+
+Natural Selection, Inc, San Diego, CA 92121, USA.
+
+Previous research demonstrated the use of evolutionary computation for the
+discovery of transcription factor binding sites (TFBS) in promoter regions
+upstream of coexpressed genes. However, it remained unclear whether or not
+composite TFBS elements, commonly found in higher organisms where two or more
+TFBSs form functional complexes, could also be identified by using this approach.
+Here, we present an important refinement of our previous algorithm and test the
+identification of composite elements using NFAT/AP-1 as an example. We
+demonstrate that by using appropriate existing parameters such as window size,
+novel-scoring methods such as central bonusing and methods of self-adaptation to 
+automatically adjust the variation operators during the evolutionary search,
+TFBSs of different sizes and complexity can be identified as top solutions. Some 
+of these solutions have known experimental relationships with NFAT/AP-1. We also 
+indicate that even after properly tuning the model parameters, the choice of the 
+appropriate window size has a significant effect on algorithm performance. We
+believe that this improved algorithm will greatly augment TFBS discovery.
+
+
+PMCID: PMC2588514
+PMID: 18927103 [PubMed - indexed for MEDLINE]
+
+
+5. BMC Bioinformatics. 2007 Nov 1;8 Suppl 7:S21.
+
+A survey of DNA motif finding algorithms.
+
+Das MK, Dai HK.
+
+Computer Science Department, Oklahoma State University, Stillwater, Oklahoma
+74078, USA. mkdas@email.arizona.edu
+
+BACKGROUND: Unraveling the mechanisms that regulate gene expression is a major
+challenge in biology. An important task in this challenge is to identify
+regulatory elements, especially the binding sites in deoxyribonucleic acid (DNA) 
+for transcription factors. These binding sites are short DNA segments that are
+called motifs. Recent advances in genome sequence availability and in
+high-throughput gene expression analysis technologies have allowed for the
+development of computational methods for motif finding. As a result, a large
+number of motif finding algorithms have been implemented and applied to various
+motif models over the past decade. This survey reviews the latest developments in
+DNA motif finding algorithms. RESULTS: Earlier algorithms use promoter sequences 
+of coregulated genes from single genome and search for statistically
+overrepresented motifs. Recent algorithms are designed to use phylogenetic
+footprinting or orthologous sequences and also an integrated approach where
+promoter sequences of coregulated genes and phylogenetic footprinting are used.
+All the algorithms studied have been reported to correctly detect the motifs that
+have been previously detected by laboratory experimental approaches, and some
+algorithms were able to find novel motifs. However, most of these motif finding
+algorithms have been shown to work successfully in yeast and other lower
+organisms, but perform significantly worse in higher organisms. CONCLUSION:
+Despite considerable efforts to date, DNA motif finding remains a complex
+challenge for biologists and computer scientists. Researchers have taken many
+different approaches in developing motif discovery tools and the progress made in
+this area of research is very encouraging. Performance comparison of different
+motif finding tools and identification of the best tools have proven to be a
+difficult task because tools are designed based on algorithms and motif models
+that are diverse and complex and our incomplete understanding of the biology of
+regulatory mechanism does not always provide adequate evaluation of underlying
+algorithms over motif models.
+
+
+PMCID: PMC2099490
+PMID: 18047721 [PubMed - indexed for MEDLINE]
+
+
+6. Nucleic Acids Res. 2007;35(1):e1. Epub 2006 Nov 27.
+
+CoMoDis: composite motif discovery in mammalian genomes.
+
+Donaldson IJ, Göttgens B.
+
+Department of Haematology, Cambridge Institute for Medical Research, University
+of Cambridge, Hills Road, Cambridge CB2 2XY, UK. ian.donaldson@manchester.ac.uk
+
+Specificity of mammalian gene regulatory regions is achieved to a large extent
+through the combinatorial binding of sets of transcription factors to distinct
+binding sites, discrete combinations of which are often referred to as regulatory
+modules. Identification and subsequent characterization of gene regulatory
+modules will be a key step in assembling transcriptional regulatory networks from
+gene expression profiling data, with the ultimate goal of unravelling the
+regulatory codes that govern gene expression in various cell types. Here we
+describe the new bioinformatics tool, Composite Motif Discovery (CoMoDis), which 
+streamlines computational identification of novel regulatory modules starting
+from a single seed motif. Seed motifs represent binding sites conserved across
+mammalian species. CoMoDis facilitates novel motif discovery by automating the
+extraction of DNA sequences flanking seed motifs and streamlining downstream
+motif discovery using a variety of tools, including several that utilize
+phylogenetic conservation criteria. CoMoDis is available at
+http://hscl.cimr.cam.ac.uk/CoMoDis_portal.html.
+
+
+PMCID: PMC1702496
+PMID: 17130158 [PubMed - indexed for MEDLINE]
+
