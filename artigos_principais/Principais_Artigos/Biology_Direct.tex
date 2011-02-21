@@ -1,0 +1,57 @@
+\chapter{Biology Direct}
+
+{\Large \bf Classifying transcription factor targets and discovering relevant biological features}
+
+Dustin T Holloway, Mark Kon e Charles DeLisi
+
+{\it Biology Direct}, Vol. 3, No. 1. (30 May 2008), 22. doi:10.1186/1745-6150-3-22
+
+{\large \bf Abstract}
+
+{\it Background}
+
+An important goal in post-genomic research is discovering the network of interactions between transcription factors (TFs) and the genes they regulate. We have previously reported the development of a supervised-learning approach to TF target identification, and used it to predict targets of 104 transcription factors in yeast. We now include a new sequence conservation measure, expand our predictions to include 59 new TFs, introduce a web-server, and implement an improved ranking method to reveal the biological features contributing to regulation. The classifiers combine 8 genomic datasets covering a broad range of measurements including sequence conservation, sequence overrepresentation, gene expression, and DNA structural properties.
+
+Principal Findings
+
+(1) Application of the method yields an amplification of information about yeast regulators. The ratio of total targets to previously known targets is greater than 2 for 11 TFs, with several having larger gains: Ash1(4), Ino2(2.6), Yaf1(2.4), and Yap6(2.4).
+
+(2) Many predicted targets for TFs match well with the known biology of their regulators. As a case study we discuss the regulator Swi6, presenting evidence that it may be important in the DNA damage response, and that the previously uncharacterized gene YMR279C plays a role in DNA damage response and perhaps in cell-cycle progression.
+
+(3) A procedure based on recursive-feature-elimination is able to uncover from the large initial data sets those features that best distinguish targets for any TF, providing clues relevant to its biology. An analysis of Swi6 suggests a possible role in lipid metabolism, and more specifically in metabolism of ceramide, a bioactive lipid currently being investigated for anti-cancer properties.
+
+(4) An analysis of global network properties highlights the transcriptional network hubs; the factors which control the most genes and the genes which are bound by the largest set of regulators. Cell-cycle and growth related regulators dominate the former; genes involved in carbon metabolism and energy generation dominate the latter.
+
+{\it Conclusion}
+
+Postprocessing of regulatory-classifier results can provide high quality predictions, and feature ranking strategies can deliver insight into the regulatory functions of TFs. Predictions are available at an online web-server, including the full transcriptional network, which can be analyzed using VisAnt network analysis suite.
+
+
+{\Large \bf In silico regulatory analysis for exploring human disease progression}
+
+Dustin T Holloway, Mark Kon e Charles DeLisi
+
+{\it Biology Direct}, Vol. 3, No. 1. (18 June 2008), 24. doi:10.1186/1745-6150-3-24
+
+{\large \bf Abstract}
+ 
+{\it Background}
+
+An important goal in bioinformatics is to unravel the network of transcription factors (TFs) and their targets. This is important in the human genome, where many TFs are involved in disease progression. Here, classification methods are applied to identify new targets for 152 transcriptional regulators using publicly-available targets as training examples. Three types of sequence information are used: composition, conservation, and overrepresentation.
+
+{\it Results}
+
+Starting with 8817 TF-target interactions we predict an additional 9333 targets for 152 TFs. Randomized classifiers make few predictions (~2/18660) indicating that our predictions for many TFs are significantly enriched for true targets. An enrichment score is calculated and used to filter new predictions.
+Two case-studies for the TFs OCT4 and WT1 illustrate the usefulness of our predictions:
+
+• Many predicted OCT4 targets fall into the Wnt-pathway. This is consistent with known biology as OCT4 is developmentally related and Wnt pathway plays a role in early development.
+
+• Beginning with 15 known targets, 354 predictions are made for WT1. WT1 has a role in formation of Wilms' tumor. Chromosomal regions previously implicated in Wilms' tumor by cytological evidence are statistically enriched in predicted WT1 targets. These findings may shed light on Wilms' tumor progression, suggesting that the tumor progresses either by loss of WT1 or by loss of regions harbouring its targets.
+
+• Targets of WT1 are statistically enriched for cancer related functions including metastasis and apoptosis. Among new targets are BAX and PDE4B, which may help mediate the established anti-apoptotic effects of WT1.
+
+• Of the thirteen TFs found which co-regulate genes with WT1 (p ≤ 0.02), 8 have been previously implicated in cancer. The regulatory-network for WT1 targets in genomic regions relevant to Wilms' tumor is provided.
+
+{\it Conclusion}
+
+We have assembled a set of features for the targets of human TFs and used them to develop classifiers for the determination of new regulatory targets. Many predicted targets are consistent with the known biology of their regulators, and new targets for the Wilms' tumor regulator, WT1, are proposed. We speculate that Wilms' tumor development is mediated by chromosomal rearrangements in the location of WT1 targets.

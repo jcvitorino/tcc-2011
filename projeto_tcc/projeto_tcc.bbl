@@ -1,0 +1,26 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[Agarwal et al. 2006]{PradeepK.Agarwal2006}
+\abntrefinfo{Agarwal et al.}{AGARWAL et al.}{2006}
+{AGARWAL, P.~K. et al. Role of dreb transcription factors in abiotic and biotic
+  stress tolerance in plants.
+\emph{Plant Cell}, v.~25, p. 1263--1274, 2006.}
+
+\bibitem[Wang, Haberer e Mayer 2009]{WANG2009}
+\abntrefinfo{Wang, Haberer e Mayer}{WANG; HABERER; MAYER}{2009}
+{WANG, X.; HABERER, G.; MAYER, K. Discovery of cis-elements between sorghum and
+  rice using co-expression and evolutionary conservation.
+\emph{BMC Genomics}, v.~10, p. 1471--2164, 2009.}
+
+\bibitem[Wasserman e Sandelin 2004]{WASSERMAN2004}
+\abntrefinfo{Wasserman e Sandelin}{WASSERMAN; SANDELIN}{2004}
+{WASSERMAN, W.~W.; SANDELIN, A. Applied bioinformatics for the identification
+  of regulatory elements.
+\emph{Natural Reviews Genetics}, v.~5, p. 276--287, 2004.}
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdftex 2010.5.17)  27 JAN 2011 01:39
+entering extended mode
+**fundamentacao.tex
+(./fundamentacao.tex
+! Undefined control sequence.
+l.1 \chapter
+            {FUNDAMENTA\c{C}\~AO TE\'ORICO-METODOL\'OGICA}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ã in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ç in font cmr10!
+)
+! Emergency stop.
+<*> fundamentacao.tex
+                     
+*** (job aborted, no legal \end found)
+
+No pages of output.
