@@ -4,9 +4,16 @@ A level-1 auxiliary file: ./capa.aux
 A level-1 auxiliary file: ./resumo.aux
 A level-1 auxiliary file: ./fundamentacao.aux
 A level-1 auxiliary file: ./justificativa.aux
+Case mismatch error between cite keys WANG2009 and Wang2009
+---line 2 of file ./justificativa.aux
+ : \citation{WANG2009
+ :                   }
+I'm skipping whatever remains of this command
 The style file: abnt-alf.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: bibliografia/bibliografia.bib
+Database file #1: abnt-options.bib
+Database file #2: bibliografia/bibliografia.bib
+Warning--I didn't find a database entry for "WASSERMAN2004"
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 +---------------------------------------------------------+
 | Estilo bibliografico abnt-alf.bst versao 1.52           |
@@ -14,44 +21,45 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 | Em caso de duvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-You've used 3 entries,
+You've used 19 entries,
             6523 wiz_defined-function locations,
-            1189 strings with 9871 characters,
-and the built_in function-call counts, 3606 in all, are:
-= -- 386
-> -- 127
-< -- 9
-+ -- 90
-- -- 37
-* -- 257
-:= -- 520
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 40
-chr.to.int$ -- 12
-cite$ -- 3
-duplicate$ -- 144
-empty$ -- 191
-format.name$ -- 178
-if$ -- 834
-int.to.chr$ -- 0
+            1339 strings with 14835 characters,
+and the built_in function-call counts, 49781 in all, are:
+= -- 7113
+> -- 654
+< -- 1476
++ -- 1698
+- -- 191
+* -- 2776
+:= -- 5196
+add.period$ -- 85
+call.type$ -- 20
+change.case$ -- 221
+chr.to.int$ -- 69
+cite$ -- 17
+duplicate$ -- 6353
+empty$ -- 1105
+format.name$ -- 933
+if$ -- 9809
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 55
-newline$ -- 23
-num.names$ -- 15
-pop$ -- 97
+missing$ -- 327
+newline$ -- 127
+num.names$ -- 85
+pop$ -- 501
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 83
 quote$ -- 0
-skip$ -- 196
+skip$ -- 6395
 stack$ -- 1
-substring$ -- 195
-swap$ -- 81
-text.length$ -- 6
+substring$ -- 2077
+swap$ -- 1878
+text.length$ -- 83
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 26
+while$ -- 167
 width$ -- 0
-write$ -- 56
+write$ -- 339
+(There was 1 error message)

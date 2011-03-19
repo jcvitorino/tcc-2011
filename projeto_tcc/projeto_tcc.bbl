@@ -5,22 +5,196 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.52 }
 
-\bibitem[Agarwal et al. 2006]{PradeepK.Agarwal2006}
-\abntrefinfo{Agarwal et al.}{AGARWAL et al.}{2006}
-{AGARWAL, P.~K. et al. Role of dreb transcription factors in abiotic and biotic
-  stress tolerance in plants.
-\emph{Plant Cell}, v.~25, p. 1263--1274, 2006.}
+\bibitem[Agarwal et al.]{Agarwal2006}
+\abntrefinfo{Agarwal et al.}{AGARWAL et al.}{}
+{AGARWAL, P.~K. et al. {Role of DREB transcription factors in abiotic and
+  biotic stress tolerance in plants}.
+\emph{Plant Cell Reports}, v.~25, n.~12, p. 1263--1274.
+ISSN 0721-7714.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1007\-/s12190-008-020%
+4-7$>$}{http://dx.doi.org/10.1007/s12190-008-0204-7}.}
 
-\bibitem[Wang, Haberer e Mayer 2009]{WANG2009}
-\abntrefinfo{Wang, Haberer e Mayer}{WANG; HABERER; MAYER}{2009}
-{WANG, X.; HABERER, G.; MAYER, K. Discovery of cis-elements between sorghum and
-  rice using co-expression and evolutionary conservation.
-\emph{BMC Genomics}, v.~10, p. 1471--2164, 2009.}
+\bibitem[Bailey et al. 2006]{Bailey2006}
+\abntrefinfo{Bailey et al.}{BAILEY et al.}{2006}
+{BAILEY, T.~L. et al. {MEME: discovering and analyzing DNA and protein sequence
+  motifs}.
+\emph{Nucleic Acids Research}, Institute of Molecular Bioscience, The
+  University of Queensland, St Lucia, QLD 4072, Australia.
+  t.bailey@imb.uq.edu.au, v.~34, n. suppl 2, p. W369--W373, jul. 2006.
+ISSN 1362-4962.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1093\-/nar\-/gkl198$>%
+$}{http://dx.doi.org/10.1093/nar/gkl198}.}
 
-\bibitem[Wasserman e Sandelin 2004]{WASSERMAN2004}
-\abntrefinfo{Wasserman e Sandelin}{WASSERMAN; SANDELIN}{2004}
-{WASSERMAN, W.~W.; SANDELIN, A. Applied bioinformatics for the identification
-  of regulatory elements.
-\emph{Natural Reviews Genetics}, v.~5, p. 276--287, 2004.}
+\bibitem[Blanchette e Tompa 2002]{Blanchette2002}
+\abntrefinfo{Blanchette e Tompa}{BLANCHETTE; TOMPA}{2002}
+{BLANCHETTE, M.; TOMPA, M. {Discovery of Regulatory Elements by a Computational
+  Method for Phylogenetic Footprinting}.
+\emph{Genome Research}, v.~12, n.~5, p. 739--748, maio 2002.
+ISSN 1088-9051.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1101\-/gr\-.6902$>$}{%
+http://dx.doi.org/10.1101/gr.6902}.}
+
+\bibitem[Carmack et al. 2007]{Carmack2007}
+\abntrefinfo{Carmack et al.}{CARMACK et al.}{2007}
+{CARMACK, C.~S. et al. {PhyloScan: identification of transcription factor
+  binding sites using cross-species evidence}.
+\emph{Algorithms for Molecular Biology}, v.~2, n.~1, p.~1+, jan. 2007.
+ISSN 1748-7188.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1748-7188-2-1$%
+>$}{http://dx.doi.org/10.1186/1748-7188-2-1}.}
+
+\bibitem[Chan e Kibler 2005]{Chan2005}
+\abntrefinfo{Chan e Kibler}{CHAN; KIBLER}{2005}
+{CHAN, B.; KIBLER, D. Using hexamers to predict cis-regulatory motifs in
+  drosophila.
+\emph{BMC Bioinformatics}, v.~6, n.~1, p.~262+, out. 2005.
+ISSN 1471-2105.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1471-2105-6-26%
+2$>$}{http://dx.doi.org/10.1186/1471-2105-6-262}.}
+
+\bibitem[Das e Dai 2007]{Das2007}
+\abntrefinfo{Das e Dai}{DAS; DAI}{2007}
+{DAS, M.; DAI, H.~K. {A survey of DNA motif finding algorithms}.
+\emph{BMC Bioinformatics}, v.~8, n. Suppl 7, p.~S21+, 2007.
+ISSN 1471-2105.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1471-2105-8-S7%
+-S21$>$}{http://dx.doi.org/10.1186/1471-2105-8-S7-S21}.}
+
+\bibitem[Eskin e Pevzner 2002]{Eskin2002}
+\abntrefinfo{Eskin e Pevzner}{ESKIN; PEVZNER}{2002}
+{ESKIN, E.; PEVZNER, P.~A. {Finding composite regulatory patterns in DNA
+  sequences.}
+\emph{Bioinformatics (Oxford, England)}, Department of Computer Science,
+  Columbia University, New York, 10027 NY, USA. eeskin@cs.columbia.edu, v. 18
+  Suppl 1, 2002.
+ISSN 1367-4803.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/view\-.ncbi\-.nlm\-.nih\-.gov\-/pubmed\-/12%
+169566$>$}{http://view.ncbi.nlm.nih.gov/pubmed/12169566}.}
+
+\bibitem[Helden, Andr\'{e} e Collado-Vides 1998]{Helden1998}
+\abntrefinfo{Helden, Andr\'{e} e Collado-Vides}{HELDEN; ANDR\'{e};
+  COLLADO-VIDES}{1998}
+{HELDEN, J. van; ANDR\'{e}, B.; COLLADO-VIDES, J. {Extracting regulatory sites
+  from the upstream region of yeast genes by computational analysis of
+  oligonucleotide frequencies1}.
+\emph{Journal of Molecular Biology}, Centro de Investigaci\'{o}n sobre
+  Fijaci\'{o}n de Nitr\'{o}geno, Universidad Nacional Aut\'{o}noma de
+  M\'{e}xico, AP565A Cuernavaca, Morelos, 62100, M\'{e}xico.
+  jvanheld@ebi.ac.uk, v.~281, n.~5, p. 827--842, set. 1998.
+ISSN 00222836.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1006\-/jmbi\-.1998\-.%
+1947$>$}{http://dx.doi.org/10.1006/jmbi.1998.1947}.}
+
+\bibitem[Lawrence et al. 1993]{Lawrence1993}
+\abntrefinfo{Lawrence et al.}{LAWRENCE et al.}{1993}
+{LAWRENCE, C.~E. et al. {Detecting subtle sequence signals: a Gibbs sampling
+  strategy for multiple alignment.}
+\emph{Science (New York, N.Y.)}, National Center for Biotechnology Information,
+  National Library of Medicine, National Institutes of Health, Bethesda, MD
+  20894., v.~262, n.~5131, p. 208--214, out. 1993.
+ISSN 0036-8075.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1126\-/science\-.8211%
+139$>$}{http://dx.doi.org/10.1126/science.8211139}.}
+
+\bibitem[Rombauts et al. 2003]{Rombauts2003}
+\abntrefinfo{Rombauts et al.}{ROMBAUTS et al.}{2003}
+{ROMBAUTS, S. et al. {Computational Approaches to Identify Promoters and
+  cis-Regulatory Elements in Plant Genomes}.
+\emph{Plant Physiol.}, Department of Plant Systems Biology, Flanders
+  Interuniversity Institute for Biotechnology, Ghent University, B-9000 Gent,
+  Belgium., v.~132, n.~3, p. 1162--1176, jul. 2003.
+ISSN 0032-0889.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1104\-/pp\-.102\-.017%
+715$>$}{http://dx.doi.org/10.1104/pp.102.017715}.}
+
+\bibitem[Roth et al. 1998]{Roth1998}
+\abntrefinfo{Roth et al.}{ROTH et al.}{1998}
+{ROTH, F.~P. et al. {Finding DNA regulatory motifs within unaligned noncoding
+  sequences clustered by whole-genome mRNA quantitation}.
+\emph{Nature Biotechnology}, Nature Publishing Group, Harvard University
+  Graduate Biophysics Program and Harvard Medical School Department of
+  Genetics, Boston, MA 02115, USA., v.~16, n.~10, p. 939--945, out. 1998.
+ISSN 1087-0156.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1038\-/nbt1098-939$>$%
+}{http://dx.doi.org/10.1038/nbt1098-939}.}
+
+\bibitem[Sinha, Blanchette e Tompa 2004]{Sinha2004}
+\abntrefinfo{Sinha, Blanchette e Tompa}{SINHA; BLANCHETTE; TOMPA}{2004}
+{SINHA, S.; BLANCHETTE, M.; TOMPA, M. {PhyME: A probabilistic algorithm for
+  finding motifs in sets of orthologous sequences}.
+\emph{BMC Bioinformatics}, Center for Studies in Physics and Biology, The
+  Rockefeller University, New York, NY 10021, USA.
+  saurabh@lonnrot.rockefeller.edu, v.~5, n.~1, p.~170+, out. 2004.
+ISSN 1471-2105.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1471-2105-5-17%
+0$>$}{http://dx.doi.org/10.1186/1471-2105-5-170}.}
+
+\bibitem[Sinha e Tompa 2003]{Sinha2003}
+\abntrefinfo{Sinha e Tompa}{SINHA; TOMPA}{2003}
+{SINHA, S.; TOMPA, M. {YMF: a program for discovery of novel transcription
+  factor binding sites by statistical overrepresentation}.
+\emph{Nucleic Acids Research}, v.~31, n.~13, p. 3586--3588, jul. 2003.
+ISSN 1362-4962.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1093\-/nar\-/gkg618$>%
+$}{http://dx.doi.org/10.1093/nar/gkg618}.}
+
+\bibitem[Thijs et al. 2002]{Thijs2002}
+\abntrefinfo{Thijs et al.}{THIJS et al.}{2002}
+{THIJS, G. et al. {A Gibbs Sampling Method to Detect Overrepresented Motifs in
+  the Upstream Regions of Coexpressed Genes}.
+\emph{Journal of Computational Biology}, ESAT-SCD, KULeuven, Kasteelpark
+  Arenberg 10, 3001 Leuven, Belgium. GertThijs@esat.kuleuven.ac.be, v.~9, n.~2,
+  p. 447--464, abr. 2002.
+ISSN 1066-5277.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1089\-/10665270252935%
+566$>$}{http://dx.doi.org/10.1089/10665270252935566}.}
+
+\bibitem[Wang et al. 2009]{Wang2009}
+\abntrefinfo{Wang et al.}{WANG et al.}{2009}
+{WANG, S. et al. An \&lt;i\&gt;in silico\&lt;/i\&gt; strategy identified the
+  target gene candidates regulated by dehydration responsive element binding
+  proteins ({DREBs}) in \&{lt;i\&gt;Arabidopsis}\&lt;/i\&gt; genome.
+\emph{Plant Molecular Biology}, Springer Netherlands, v.~69, n.~1, p. 167--178,
+  jan. 2009.
+ISSN 0167-4412.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1007\-/s11103-008-941%
+4-5$>$}{http://dx.doi.org/10.1007/s11103-008-9414-5}.}
+
+\bibitem[Wang 2005]{Wang2005}
+\abntrefinfo{Wang}{WANG}{2005}
+{WANG, T. {Identifying the conserved network of cis-regulatory sites of a
+  eukaryotic genome}.
+\emph{Proceedings of the National Academy of Sciences}, v.~102, n.~48, p.
+  17400--17405, nov. 2005.
+ISSN 0027-8424.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1073\-/pnas\-.0505147%
+102$>$}{http://dx.doi.org/10.1073/pnas.0505147102}.}
+
+\bibitem[Wang e Stormo 2003]{Wang2003}
+\abntrefinfo{Wang e Stormo}{WANG; STORMO}{2003}
+{WANG, T.; STORMO, G.~D. {Combining phylogenetic data with co-regulated genes
+  to identify regulatory motifs}.
+\emph{Bioinformatics}, Department of Genetics, Washington University Medical
+  School, St. Louis, MO 63110, USA., v.~19, n.~18, p. 2369--2380, dez. 2003.
+ISSN 1367-4803.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1093\-/bioinformatics%
+\-/btg329$>$}{http://dx.doi.org/10.1093/bioinformatics/btg329}.}
 
 \end{thebibliography}
