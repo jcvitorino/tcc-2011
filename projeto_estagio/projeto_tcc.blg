@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: projeto_tcc.aux
+A level-1 auxiliary file: ./capa.aux
+A level-1 auxiliary file: ./resumo.aux
+A level-1 auxiliary file: ./objetivos.aux
+A level-1 auxiliary file: ./justificativa.aux
+A level-1 auxiliary file: ./fundamentacao.aux
+A level-1 auxiliary file: ./resultados.aux
+A level-1 auxiliary file: ./procedimento.aux
+A level-1 auxiliary file: ./cronograma.aux
+The style file: abnt-alf.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: abnt-options.bib
+Database file #2: bibliografia/bibliografia.bib
+Warning--I didn't find a database entry for "Higo1999"
+Warning--I didn't find a database entry for "Palaniswamy2006"
+Warning--I didn't find a database entry for "Rombauts1999"
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 7 entries,
+            6523 wiz_defined-function locations,
+            1230 strings with 11135 characters,
+and the built_in function-call counts, 15403 in all, are:
+= -- 2206
+> -- 212
+< -- 424
++ -- 526
+- -- 62
+* -- 856
+:= -- 1655
+add.period$ -- 25
+call.type$ -- 8
+change.case$ -- 72
+chr.to.int$ -- 21
+cite$ -- 5
+duplicate$ -- 1837
+empty$ -- 404
+format.name$ -- 295
+if$ -- 3094
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 113
+newline$ -- 43
+num.names$ -- 25
+pop$ -- 180
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 1944
+stack$ -- 1
+substring$ -- 634
+swap$ -- 548
+text.length$ -- 25
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 51
+width$ -- 0
+write$ -- 106
+(There were 3 warnings)

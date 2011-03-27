@@ -1,0 +1,37 @@
+
+\documentclass[12pt,a4paper,ruledheader]{abnt}
+%\usepackage[utf8x]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[center]{caption2}
+\usepackage[brazil]{babel}
+
+\usepackage[pdftex]{graphicx}
+%\usepackage{abnt-alf}
+\usepackage{latexsym}
+\usepackage{ae}
+\usepackage{hyperref}
+\usepackage[alf]{abntcite}
+\usepackage{lscape}
+
+\renewcommand{\rmdefault}{aess}
+\renewcommand{\sfdefault}{aess}
+
+\setlength{\parindent}{1.6cm}
+
+\begin{document}
+
+\include{./capa}
+\tableofcontents
+\include{./resumo}
+\include{./objetivos}      % v
+\include{./justificativa}  % v
+\include{./fundamentacao}  % falta tecnicas e diagramas
+\include{./resultados}
+\include{./procedimento}   % falta diagrama
+\include{./cronograma}
+
+\bibliographystyle{abnt-alf}
+\bibliography{bibliografia/bibliografia}
+
+\end{document}
+
