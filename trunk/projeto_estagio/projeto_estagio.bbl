@@ -1,0 +1,66 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[Blanchette e Tompa 2002]{Blanchette2002}
+\abntrefinfo{Blanchette e Tompa}{BLANCHETTE; TOMPA}{2002}
+{BLANCHETTE, M.; TOMPA, M. {Discovery of Regulatory Elements by a Computational
+  Method for Phylogenetic Footprinting}.
+\emph{Genome Research}, v.~12, n.~5, p. 739--748, maio 2002.
+ISSN 1088-9051.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1101\-/gr\-.6902$>$}{%
+http://dx.doi.org/10.1101/gr.6902}.}
+
+\bibitem[Das e Dai 2007]{Das2007}
+\abntrefinfo{Das e Dai}{DAS; DAI}{2007}
+{DAS, M.; DAI, H.~K. {A survey of DNA motif finding algorithms}.
+\emph{BMC Bioinformatics}, v.~8, n. Suppl 7, p.~S21+, 2007.
+ISSN 1471-2105.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1471-2105-8-S7%
+-S21$>$}{http://dx.doi.org/10.1186/1471-2105-8-S7-S21}.}
+
+\bibitem[Helden, Andr\'{e} e Collado-Vides 1998]{Helden1998}
+\abntrefinfo{Helden, Andr\'{e} e Collado-Vides}{HELDEN; ANDR\'{e};
+  COLLADO-VIDES}{1998}
+{HELDEN, J. van; ANDR\'{e}, B.; COLLADO-VIDES, J. {Extracting regulatory sites
+  from the upstream region of yeast genes by computational analysis of
+  oligonucleotide frequencies1}.
+\emph{Journal of Molecular Biology}, Centro de Investigaci\'{o}n sobre
+  Fijaci\'{o}n de Nitr\'{o}geno, Universidad Nacional Aut\'{o}noma de
+  M\'{e}xico, AP565A Cuernavaca, Morelos, 62100, M\'{e}xico.
+  jvanheld@ebi.ac.uk, v.~281, n.~5, p. 827--842, set. 1998.
+ISSN 00222836.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1006\-/jmbi\-.1998\-.%
+1947$>$}{http://dx.doi.org/10.1006/jmbi.1998.1947}.}
+
+\bibitem[Rombauts et al. 2003]{Rombauts2003}
+\abntrefinfo{Rombauts et al.}{ROMBAUTS et al.}{2003}
+{ROMBAUTS, S. et al. {Computational Approaches to Identify Promoters and
+  cis-Regulatory Elements in Plant Genomes}.
+\emph{Plant Physiol.}, Department of Plant Systems Biology, Flanders
+  Interuniversity Institute for Biotechnology, Ghent University, B-9000 Gent,
+  Belgium., v.~132, n.~3, p. 1162--1176, jul. 2003.
+ISSN 0032-0889.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1104\-/pp\-.102\-.017%
+715$>$}{http://dx.doi.org/10.1104/pp.102.017715}.}
+
+\bibitem[Sinha, Blanchette e Tompa 2004]{Sinha2004}
+\abntrefinfo{Sinha, Blanchette e Tompa}{SINHA; BLANCHETTE; TOMPA}{2004}
+{SINHA, S.; BLANCHETTE, M.; TOMPA, M. {PhyME: A probabilistic algorithm for
+  finding motifs in sets of orthologous sequences}.
+\emph{BMC Bioinformatics}, Center for Studies in Physics and Biology, The
+  Rockefeller University, New York, NY 10021, USA.
+  saurabh@lonnrot.rockefeller.edu, v.~5, n.~1, p.~170+, out. 2004.
+ISSN 1471-2105.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1186\-/1471-2105-5-17%
+0$>$}{http://dx.doi.org/10.1186/1471-2105-5-170}.}
+
+\end{thebibliography}

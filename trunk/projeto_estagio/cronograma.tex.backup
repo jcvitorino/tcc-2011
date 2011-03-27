@@ -1,0 +1,32 @@
+\chapter{CRONOGRAMA DE DESENVOLVIMENTO}
+
+O cronograma de desenvolvimento dos trabalhos será:
+
+\begin{table}[h]
+\caption{Comparação das características dos métodos de clusterização estudados}
+  \begin{center}
+    \begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}
+      \hline
+        Mês & Descrição & Indicador físico \\
+      \hline
+        Abril & & & & & & & & & & \\
+             & Revisão bibliográfica & Texto com 5 páginas contendo a revisão bibliográfica \\
+      \hline
+        Maio & & & & & & & & & & \\
+        elementos regulatórios  & X & X & X & X & & & & & & \\
+      \hline
+        Junho & & & & & & & & & & \\
+                                 & & & & X & & & & & & \\
+      \hline
+        Agosto de& & & & & & & & & & \\
+         elementos regulatórios  & & & & & X & X & X & X & X & \\
+      \hline
+        Setembro & & & & & & & & & & \\
+        genoma da soja & & & & & & &  &  & X & \\
+      \hline
+        Outubro & X & X & X & X & X & X & X & X & X & X \\
+      \hline
+    \end{tabular}
+    \label{tab:cronograma_trabalho}
+  \end{center}
+\end{table}
